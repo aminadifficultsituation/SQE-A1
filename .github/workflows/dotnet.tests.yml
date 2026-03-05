@@ -18,10 +18,10 @@ jobs:
           dotnet-version: '7.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore ./SoftwareQualityTests.csproj
+        run: dotnet restore ./SoftwareQualityTests/SoftwareQualityTests.csproj
 
       - name: Build solution
-        run: dotnet build ./SoftwareQualityTests.csproj --no-restore
+        run: dotnet build ./SoftwareQualityTests/SoftwareQualityTests.csproj --no-restore
 
       - name: Run tests
-        run: dotnet test ./SoftwareQualityTests.csproj --no-build
+        run: dotnet test ./SoftwareQualityTests/SoftwareQualityTests.csproj --no-build
