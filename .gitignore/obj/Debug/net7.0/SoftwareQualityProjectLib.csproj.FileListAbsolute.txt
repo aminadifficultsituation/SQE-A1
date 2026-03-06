@@ -1,0 +1,12 @@
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/bin/Debug/net7.0/SoftwareQualityProjectLib.deps.json
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/bin/Debug/net7.0/SoftwareQualityProjectLib.dll
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/bin/Debug/net7.0/SoftwareQualityProjectLib.pdb
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/obj/Debug/net7.0/SoftwareQualityProjectLib.csproj.AssemblyReference.cache
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/obj/Debug/net7.0/SoftwareQualityProjectLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/obj/Debug/net7.0/SoftwareQualityProjectLib.AssemblyInfoInputs.cache
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/obj/Debug/net7.0/SoftwareQualityProjectLib.AssemblyInfo.cs
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/obj/Debug/net7.0/SoftwareQualityProjectLib.csproj.CoreCompileInputs.cache
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/obj/Debug/net7.0/SoftwareQualityProjectLib.dll
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/obj/Debug/net7.0/refint/SoftwareQualityProjectLib.dll
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/obj/Debug/net7.0/SoftwareQualityProjectLib.pdb
+/Users/ninaweena/Desktop/SoftwareQualityProject/SoftwareQualityProjectLib/obj/Debug/net7.0/ref/SoftwareQualityProjectLib.dll
