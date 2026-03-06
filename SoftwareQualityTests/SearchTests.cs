@@ -6,10 +6,10 @@ namespace SoftwareQualityTests
     public class SearchTests
     {
         private readonly SearchAlgorithms search = new SearchAlgorithms();
-        private readonly int[] arr = {1, 3, 5, 7, 8};
+        private readonly int[] arr = {1, 3, 5, 6, 8};
 
         [Fact]
-        public void BinarySearch_Found() => Assert.Equal(3, search.BinarySearch(7, arr));
+        public void BinarySearch_Found() => Assert.Equal(3, search.BinarySearch(6, arr));
 
         [Fact]
         public void BinarySearch_NotFound() => Assert.Equal(-1, search.BinarySearch(4, arr));
@@ -27,5 +27,4 @@ namespace SoftwareQualityTests
         public void JumpSearch_NotFound() => Assert.Equal(-1, search.JumpSearch(10, arr));
     }
 }
-//testing
 //meow
