@@ -21,10 +21,11 @@ namespace SoftwareQualityTests
         public void LinearSearch_NotFound() => Assert.Equal(-1, search.LinearSearch(4, arr));
 
         [Fact]
-        public void JumpSearch_Found() => Assert.Equal(4, search.JumpSearch(9, arr));
+        public void JumpSearch_Found() => Assert.Equal(4, search.JumpSearch(8, arr));
 
         [Fact]
         public void JumpSearch_NotFound() => Assert.Equal(-1, search.JumpSearch(10, arr));
     }
 }
 //testing
+//meow
